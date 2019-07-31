@@ -21,9 +21,9 @@ function App() {
         </div>
       </header>
       {/* start banner Area */}
-      <section className="banner-area relative" style={{minHeight: '100vh'}}>
+      <section className="banner-area relative" style={{minHeight: '90vh'}}>
         <div className="overlay overlay-bg" />
-        <div className="container" style={{paddingTop: '20%'}}>
+        <div className="container" style={{paddingTop: '17%'}}>
           <div className="row fullscreen d-flex justify-content-center align-items-center">
             <div className="banner-content col-lg-10 col-md-12 justify-content-center">
               <h6 className="text-uppercase">Whenever we share, share with our heart</h6>
@@ -34,7 +34,7 @@ function App() {
                 “You don’t have to burn books to destroy a culture. Just get people to stop reading them.” – Ray
                 Bradbury
         </p>
-              <a href="#" className="primary-btn squire text-uppercase mt-10">Share Your Book</a>
+              <a href="data.html" className="primary-btn squire text-uppercase mt-10">Share Your Book</a>
             </div>
           </div>
         </div>
